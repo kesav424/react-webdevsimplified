@@ -1,11 +1,12 @@
 
+import UseState from './hooks/UseState'
 import './index.css'
 
 function App() {
 
 
   return (
-    <h1>hii</h1>
+    <UseState></UseState>
   )
 }
 
