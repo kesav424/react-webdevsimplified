@@ -1,12 +1,14 @@
 
-import UseState from './hooks/UseState'
+// import UseState from './hooks/UseState'
+import UseEffect from './hooks/UseEffect'
 import './index.css'
 
 function App() {
 
 
   return (
-    <UseState></UseState>
+    // <UseState></UseState>
+    <UseEffect></UseEffect>
   )
 }
 
